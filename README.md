@@ -1,1 +1,1 @@
-# mrg-vm2-github-bearer-quarantine-0917-q2h5
+VM2 GitHub bearer quarantine authz fixture
